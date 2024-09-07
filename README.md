@@ -1,2 +1,2 @@
-# notionCurrencyConverter
-Currency converter widget for Notion
+# notion-widgets
+Widgets for Notion
